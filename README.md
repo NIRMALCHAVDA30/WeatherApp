@@ -2,6 +2,9 @@
 
 This is a simple weather web app built using HTML, CSS, and JavaScript. The app fetches weather data from the OpenWeatherMap API and displays it to the user based on the city name input. 🌍☁️
 
+![Screenshot 2024-07-06 163455](https://github.com/NIRMALCHAVDA30/WeatherApp/assets/165412827/6168d44e-cda0-4dd1-aee4-511f16ef47de)
+
+
 ## Features ✨
 
 - Fetches real-time weather data 🌡️
